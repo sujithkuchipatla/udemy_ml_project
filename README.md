@@ -2,12 +2,6 @@
 # 🎓 Student Exam Performance Prediction
 
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-Web_App-black?style=for-the-badge&logo=flask)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)
-
 </p>
 
 ## 📖 Overview
